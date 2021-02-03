@@ -1,4 +1,4 @@
-- Each folder is based on the several phases of this project. Within these folders, each name's file end with the task associated: 
+- Each folder is based on the several phases of this project. Within these folders, each name's file end with the associated task: 
 
 1) ***_sarcasm***: sarcasm detection, binary classification
 
