@@ -18,13 +18,14 @@
 ### New Proposed Methods: 
 - BERTweet Features-based, a new way to combine embeddings from output encoder layers with self attention layers 
 ![Algorithm schema](./img/bertweet_newmethod.png)
+
 where the combining block is the following: 
 <p align="center">
   <img align="center" width="200" height="300" src="./img/convblock.png">
 </p>
 - DeepMoji Features-based, a new architecture based on self attention layer and Bidirectional GRU
 <p align="center">
-  <img align="center" width="500" height="300" src="./img/deepmoji_newmethod.png">
+  <img align="center" width="500" height="200" src="./img/deepmoji_newmethod.png">
 </p>
 - Ensemble of Ensemble, merging the previous models with BMA ensemble method
 <p align="center">
