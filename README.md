@@ -15,4 +15,12 @@
 - DeepMoji: Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm, https://arxiv.org/abs/1708.00524
 - Bayesian Model Averaging: Detecting Irony and Sarcasm in Microblogs: The Role of Expressive Signals and Ensemble Classifiers, https://boa.unimib.it/handle/10281/135766
 
-
+### New Proposed Methods: 
+- BERTweet Features-based, a new way to combine embeddings from output encoder layers with self attention layers 
+![Algorithm schema](./img/bertweet_newmethod.png)
+where the combining block is the following: 
+![Algorithm schema](./img/convblock.png)
+- DeepMoji Features-based, a new architecture based on self attention layer and Bidirectional GRU
+![Algorithm schema](./img/deepmoji_newmethod.png)
+- Ensemble of Ensemble, merging the previous models with BMA ensemble method
+<img align="center" width="1000" height="1000" src="./img/ensemblerepresentation.png">
