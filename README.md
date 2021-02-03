@@ -25,11 +25,13 @@ where the combining block is the following:
 <p align="center">
   <img align="center" width="200" height="350" src="./img/convblock.png">
 </p>
+
 - DeepMoji Features-based, a new architecture based on self attention layer and Bidirectional GRU
 
 <p align="center">
   <img align="center" width="800" height="200" src="./img/deepmoji_newmethod.png">
 </p>
+
 - Ensemble of Ensemble, merging the previous models with BMA ensemble method
 
 <p align="center">
