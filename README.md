@@ -7,7 +7,7 @@
  - Pytorch 
  - Transformers
  - TF 2.0 
- - Scikit Learn 
+ - Scikit-Learn 
  - Scikit-Optimize 
  
 ### Literature of implemented models: 
