@@ -38,4 +38,8 @@ where the combining block is the following:
   <img align="center" width="450" height="250" src="./img/ensemblerepresentation.png">
 </p>
 
-## Working Repository Set Up
+## Working Directory Set Up
+
+- **Folder SRC** contains all the available scripts of this project. Each folder within SRC is divided based on the different working phase. 
+
+- **Folder img** contains all the images and plots created in this project
