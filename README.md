@@ -10,3 +10,9 @@
  - Scikit Learn 
  - Scikit-Optimize 
  
+### Literature of implemented models: 
+- RCCN-Roberta: A Transformer-based approach to Irony and Sarcasm detection, https://arxiv.org/pdf/1911.10401.pdf
+- DeepMoji: Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm, https://arxiv.org/abs/1708.00524
+- Bayesian Model Averaging: Detecting Irony and Sarcasm in Microblogs: The Role of Expressive Signals and Ensemble Classifiers, https://boa.unimib.it/handle/10281/135766
+
+
