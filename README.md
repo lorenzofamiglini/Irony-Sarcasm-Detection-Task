@@ -32,7 +32,7 @@ where the combining block is the following:
   <img align="center" width="800" height="200" src="./img/deepmoji_newmethod.png">
 </p>
 
-- **Ensemble of Ensemble**, merging the previous models with BMA ensemble method
+- **Ensemble of Ensembles**, merging the previous models with BMA ensemble method
 
 <p align="center">
   <img align="center" width="450" height="250" src="./img/ensemblerepresentation.png">
