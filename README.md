@@ -40,7 +40,7 @@ where the combining block is the following:
 
 ## Working Directory Set Up
 
-- **Folder SRC** contains all the available scripts of this project. Each folder within SRC is divided based on the different working phase. 
+- **Folder src** contains all the available scripts of this project. Each folder within SRC is divided based on the different working phase. 
 
 - **Folder img** contains all the images and plots created in this project
 
