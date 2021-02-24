@@ -44,6 +44,9 @@ where the combining block is the following:
 
 - **Folder img** contains all the images and plots created in this project
 
+- **Folder report** contains all the report written for this thesis
+
+-  **Folder presentation** contains the slides developed for the discussion 
+
 ## Data
 Data are collected using the various ids provided by the authors of different papers, however due to Twitter restrictions training and test data cannot be shared
-
